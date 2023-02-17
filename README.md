@@ -56,29 +56,33 @@
         <li>Ejemplos históricos.</li>
         <li>Conceptos y definiciones.</li>
         <li>Percepción visual.</li>
-        <li></li>
-        <li></li>vvddddddddd
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        
+        <li>Color.</li>
+        <li>Se usará Matplotlib, Seaborn y Pandas.</li>
+        <li>Modelo de visualización Tamara Muzner.</li>
+        <li>Qué: tipo de datos y datasets.</li>
+        <li>Por qué: tareas de visualización.</li>
+        <li>Cómo: modo de representación.</li>
+        <li>Recomendaciones generales.</li>
+        <li>Gráficos de barras, barras apiladas.</li>
+        <li>Gráficos de puntos y de líneas.</li>
+        <li>Gráficos de dispersión, gráficos de burbujas.</li>
+        <li>Gráficos de flujos.</li>
+        <li>Historigrama, gráficos de caja, gráficos de violín.</li>
+        <li>Múltiples ejes, gráficos radiales y de torta.</li>
+        <li>Matriz de gràficos.</li>
+        <li>Small Múltiples.</li>
+        <li>Mapas de calor.</li>
+        <li>Reducción de dimensionalidad lineal.</li>
+        <li>Reducción de dimensionalidad no lineal.</li>
+        <li>Conceptos: red, gráficos y árboles.</li>
+        <li>Diagramas nodo-enlace.</li>
+        <li>Matrices de adyacencia.</li>
+        <li>Gráficos tipo encierro.</li>
+        <li>Clustermap.</li>
+        <li>Visualización en dominios de aplicaciones.</li>
+        <li>Visualización espacial y espacio-temporal.</li>
+        <li>Visualización de colecciones de documentos.</li>
+        <li>Visualización de vectores de palabras.</li>        
       </ul>
     </li>
     <li>
