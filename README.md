@@ -89,6 +89,39 @@
       <a href="https://github.com/mlevicoy/diplomado-data-science/blob/main/Resumen%20Curso%20IV.pdf">
         Curso IV - Python para Machine Learning
       </a>:
+      <ul>
+        <li>Conceptos básicos y definición de aprendizaje de máquinas.</li>
+        <li>Tipos de problemas en aprendizaje de máquinas.</li>
+        <li>Clase Inicial.</li>
+        <li>Introducción a librerías del ecosistema de Data Science.</li>
+        <li>Tipo de variables.</li>
+        <li>Análisis descriptivos de variables.</li>
+        <li>Transformación de variables.</li>
+        <li>Visualización de variables.</li>
+        <li>Imputación de datos.</li>
+        <li>Aprendizaje supervisado.</li>
+        <li>Regresión lineal.</li>
+        <li>Regresiones polinomiales.</li>
+        <li>Regresiones con penalización.</li>
+        <li>Regresión logística.</li>
+        <li>Naive Bayes.</li>
+        <li>Evaluación de clasificadores.</li>
+        <li>Árboles de decisión.</li>
+        <li>Ramdom Forest.</li>
+        <li>Random Forest para regresión.</li>
+        <li>Introducción a las redes neuronales artificiales.</li>
+        <li>Redes neuronales convolucionales.</li>
+        <li>Redes neuronales recurrentes.</li>
+        <li>Aprendizaje no supervisado.</li>
+        <li>K-Means.</li>
+        <li>Clúster jerárquico.</li>
+        <li>Evaluación de Clústeres.</li>
+        <li>Reducción de dimensionalidad.</li>        
+      </ul>
     </li>
   </ol>
+</p>
+<p>
+  Para ver el contenido completo del diplomado pulsar 
+  <a href="https://1drv.ms/u/s!At9crZOKkrj-cv_eCPvWAX02j2w?e=7c6B2k">Aquí</a>
 </p>
